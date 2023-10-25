@@ -10,9 +10,12 @@ You can ask the team lead at any time for any additional clarification, this is 
 ## GitHub
 GitHub is a version control platform that allows developers to store and manage code. Version control allows many people to work on the same project at once and makes it a much more seamless process. We use GitHub for our team. 
 
-We have a few differnt repositiories. Repositories (aka repos) store code for different projects. For example, we have a repo for our test robot (Terrence) and a repo for our competition robot. We also have one for our exploration code as well.
+We have a few different repositiories. Repositories (aka repos) store code for different projects. For example, we have a repo for our test robot (Terrence) and a repo for our competition robot. We also have one for our exploration code as well.
 
 [GitHub Desktop Video Tutorial](https://www.youtube.com/watch?v=WvOKwBWS7bM)
+
+### Team Standards for Git
+The plan will be to only push to main in our code repos after a *code review*. Whenever you are writing code, use the following standard /feature-your-name, for example if you are working on color identification and your name is angeline, name the branch /color-identification-angeline. Also make sure to pull code from a branch before you start working! 
 
 ## Python
 There are plenty of online tutorials for a variety of coding languages. We primarily use Python. 
