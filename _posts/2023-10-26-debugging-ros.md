@@ -21,3 +21,4 @@ roslaunch: [ ] is neither a launch file in package [ ] nor is [ ] a launch file 
 * make sure you source the setup.bash file
 * rospack find
     * can be used to find the absolute path to a package - if rospack cannot find the file there's an issue
+    
