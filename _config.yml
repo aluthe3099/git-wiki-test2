@@ -1,8 +1,8 @@
 # (string) Title of your wiki
-title: Lunabotics Documentation
+title: Lunabotics Docs
 demo_ver: 1.0.22
 remote_theme: Drassil/git-wiki-theme@master
-description: UNL Lunabotics documentation site
+description: University of Nebraska-Lincoln Lunabotics Documentation Site
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
