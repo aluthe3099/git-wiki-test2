@@ -23,4 +23,4 @@ Robot Operating System is a set of software libraries and tools that help to bui
 In order to learn ROS there's lots of great tutorials on the [ROS Wiki](https://wiki.ros.org/ROS/Tutorials).
 
 
-We also have a page to store commonly encountered errors in ROS, be sure to keep [it]({{ site.baseurl }}{% _posts/2023-10-26-debugging-ros.md %}) updated.
+We also have a page to store commonly encountered errors in ROS, be sure to keep [it](2023-10-26-debugging-ros.md) updated.
