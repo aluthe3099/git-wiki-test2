@@ -23,7 +23,7 @@ for ~/.bashrc
     ROS_MASTER_URI=http://127.0.0.1:11311
     ROS_IP=127.0.0.1
   ```
-  on the test bot, set:
+  and ~/.bashrc on the test bot, set:
    ```
     ROS_IP=127.0.0.1
    ```
